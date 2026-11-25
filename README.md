@@ -1,2 +1,2 @@
-# \#Updating Application devB
+# Updating Application devB
 
